@@ -19,8 +19,8 @@ Este projeto foi desenvolvido como trabalho acadêmico do curso de Análise e De
 
 ## 👥 Equipe
 
-- Pedro Henrique (@pedro-hspereira)
-- Colega 1 (@usuario1)
+- Pedro Henrique da Silveira Pereira (@pedro-hspereira)
+- João Vitor Silveira (@Jvbsilveira)
 - Colega 2 (@usuario2)
 
 ---
