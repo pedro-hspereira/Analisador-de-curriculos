@@ -18,9 +18,8 @@ Este projeto foi desenvolvido como trabalho acadêmico do curso de Análise e De
 ---
 
 ## 👥 Equipe
-> ✏️ Edite esta seção com os membros do grupo
 
-- Seu nome (@seuusuario)
+- Pedro Henrique (@pedro-hspereira)
 - Colega 1 (@usuario1)
 - Colega 2 (@usuario2)
 
