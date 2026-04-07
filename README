@@ -20,7 +20,7 @@ Este projeto foi desenvolvido como trabalho acadêmico do curso de Análise e De
 ## 👥 Equipe
 > ✏️ Edite esta seção com os membros do grupo
 
-- Pedro Henrique (@pedro-hspereira)
+- Seu nome (@seuusuario)
 - Colega 1 (@usuario1)
 - Colega 2 (@usuario2)
 
@@ -51,6 +51,4 @@ Este projeto foi desenvolvido como trabalho acadêmico do curso de Análise e De
 ---
 
 ## 📂 Estrutura do projeto
-Atualmente o projeto está centralizado em um único arquivo principal para facilitar o desenvolvimento inicial.
-.
-│── app.py                # lógica principal da aplicação
+Atualmente o projeto está centralizado em um único arquivo principal.
