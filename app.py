@@ -109,7 +109,7 @@ MAPEAMENTO_CONSULTAS = {
     "Ciência/Análise de dados": "data analyst",
     "Cloud computing": "cloud engineer",
     "Gestão de projetos": "project manager",
-    "Suporte tecnico": "technical support",
+    "Suporte técnico": "technical support",
 }
 
 # =========================
