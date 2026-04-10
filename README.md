@@ -38,7 +38,6 @@ Este projeto foi desenvolvido como trabalho acadêmico do curso de Análise e De
   - Suporte Técnico
 - Análise com inteligência artificial
 - Recomendações profissionais
-- Botão "Ler mais" para descrições longas
 
 ---
 
