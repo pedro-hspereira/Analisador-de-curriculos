@@ -21,7 +21,8 @@ Este projeto foi desenvolvido como trabalho acadêmico do curso de Análise e De
 
 - Pedro Henrique da Silveira Pereira (@pedro-hspereira)
 - João Vitor Silveira (@Jvbsilveira)
-- Colega 2 (@usuario2)
+- Bernardo Manoel de Oliveira Silva (@ManoelzAFK)
+- Matheus guindani (@Guindanimatheus)
 
 ---
 
