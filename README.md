@@ -13,7 +13,7 @@ Facilitar a avaliação de currículos, tornando o processo mais rápido, organi
 ---
 
 ## 🎓 Projeto Acadêmico
-Este projeto foi desenvolvido como trabalho acadêmico do curso de Análise e Desenvolvimento de Sistemas (ADS) da Cesuca, com o objetivo de aplicar conceitos de programação, análise de dados e uso de inteligência artificial.
+Este projeto foi desenvolvido como trabalho acadêmico do curso de Análise e Desenvolvimento de Sistemas (ADS) da Cesuca, com o objetivo de aplicar conceitos de programação orientada a objetos.
 
 ---
 
