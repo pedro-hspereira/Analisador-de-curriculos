@@ -208,7 +208,7 @@ def buscar_vagas(query="software developer"):
         "app_id": ADZUNA_APP_ID,
         "app_key": ADZUNA_APP_KEY,
         "what": query,
-        "results_per_page": 5
+        "results_per_page": 3
     }
 
     try:
